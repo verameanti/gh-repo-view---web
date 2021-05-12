@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@400;700&family=Raleway:wght@200;400;500&family=Roboto+Mono:ital,wght@0,400;1,300&display=swap');
 
 body {
-  background-color: #e7d9ea;
+  background: rgb(42,154,18);
+  background: radial-gradient(circle, rgba(42,154,18,1) 0%, rgba(9,97,230,1) 100%);
   font-family: 'Bebas Neue', cursive;
   color: #726a95;
   font-size: 15px ;
